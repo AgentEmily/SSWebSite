@@ -1,0 +1,54 @@
+﻿@model IEnumerable<SStest.Models.Orders>
+@{
+    ViewBag.Title = "MyOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>我的訂單</h2>
+
+<table class="table">
+    <tr>
+        <th>訂單編號</th>
+        <th>訂購日期</th>
+        <th>到貨日期</th>
+        <th>總金額</th>
+        <th>ValueAddTax</th>
+        <th>Amount</th>
+        <th>收貨人</th>
+        <th>狀態說明</th>        
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_ID)
+            </td>     
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.ArrivalDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValueAddTax)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Consignee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status_ID)
+            </td>
+            <td>
+                @Html.ActionLink("商品明細", "MyOrderDetail", new { id = item.Order_ID }
+                 , new { @class = "btn btn-default"})
+            </td>
+        </tr>
+    }
+</table>
+

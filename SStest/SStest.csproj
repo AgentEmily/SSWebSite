@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{13BFDAE2-F0A7-4A5B-BD3B-0376E6E9155B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SStest</RootNamespace>
+    <AssemblyName>SStest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort>44300</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=__MvcPagesVersion__, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.2\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.2\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.1.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.1.0\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.1.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.3.0.0\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.0\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.3.0.0\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.3.0.0\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.0\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\IdentityConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CalendarController.cs" />
+    <Compile Include="Controllers\CartController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LogInController.cs" />
+    <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MapController.cs" />
+    <Compile Include="Controllers\MemberCenterController.cs" />
+    <Compile Include="Controllers\MyShoppingList.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\ShoppingListController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\AdSlider.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AdTicker.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AspNetRoles.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AspNetUserClaims.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AspNetUserLogins.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AspNetUsers.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AutoMail.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Brands.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Carts\Cart.cs" />
+    <Compile Include="Models\Carts\CartItem.cs" />
+    <Compile Include="Models\Carts\Operation.cs" />
+    <Compile Include="Models\Categories.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CoinGift.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Comment.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\C__MigrationHistory.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\InsideEmailList.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Members.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderDetail.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderModel\Ship.cs" />
+    <Compile Include="Models\Orders.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Outside.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Partial.cs" />
+    <Compile Include="Models\PaymentMethod.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\PList.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ProductModels.cs" />
+    <Compile Include="Models\ProductPictures.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Products.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Promotions.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\PurchaseOrderDetail.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\PurchaseOrders.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Recommendation.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\RecommendationChart.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Repeat.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\RepurchaseCycle.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Returns.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Roles.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\RolesDetail.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\RoleSelect\Operations.cs" />
+    <Compile Include="Models\RoleSmart.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Royalty.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ShipMethod.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ShoppingList.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SmartShopping.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SmartShopping.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SmartShopping.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SmartShopping.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SmartShopping.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Source.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SSAuthority.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SSPrograms.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SSUsers.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Status.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Vendors.cs">
+      <DependentUpon>SmartShopping.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\animate.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\CartList.css" />
+    <Content Include="Content\jquery-ui.css" />
+    <Content Include="Content\LogIn.css" />
+    <Content Include="Content\mainCSS.css" />
+    <Content Include="Content\RockRecord.css" />
+    <Content Include="Content\zocial-regular-webfont.svg" />
+    <Content Include="Content\zocial.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="images\404\404.png" />
+    <Content Include="images\blog\blog-one.jpg" />
+    <Content Include="images\blog\blog-three.jpg" />
+    <Content Include="images\blog\blog-two.jpg" />
+    <Content Include="images\blog\man-four.jpg" />
+    <Content Include="images\blog\man-one.jpg" />
+    <Content Include="images\blog\man-three.jpg" />
+    <Content Include="images\blog\man-two.jpg" />
+    <Content Include="images\blog\socials.png" />
+    <Content Include="images\cart\one.png" />
+    <Content Include="images\cart\three.png" />
+    <Content Include="images\cart\two.png" />
+    <Content Include="images\home\Baby-Prop-Shop-Logo-for-blog1%28pp_w870_h441%29.jpg" />
+    <Content Include="images\home\bg_border.png" />
+    <Content Include="images\home\gallery1.jpg" />
+    <Content Include="images\home\gallery2.jpg" />
+    <Content Include="images\home\gallery3.jpg" />
+    <Content Include="images\home\gallery4.jpg" />
+    <Content Include="images\home\girl1.jpg" />
+    <Content Include="images\home\girl2.jpg" />
+    <Content Include="images\home\girl3.jpg" />
+    <Content Include="images\home\iframe1.png" />
+    <Content Include="images\home\iframe2.png" />
+    <Content Include="images\home\iframe3.png" />
+    <Content Include="images\home\iframe4.png" />
+    <Content Include="images\home\logo.png" />
+    <Content Include="images\home\map.png" />
+    <Content Include="images\home\new.png" />
+    <Content Include="images\home\partner1.png" />
+    <Content Include="images\home\partner2.png" />
+    <Content Include="images\home\partner3.png" />
+    <Content Include="images\home\partner4.png" />
+    <Content Include="images\home\Pictures\baby\accessories.png" />
+    <Content Include="images\home\Pictures\baby\baby-cloths.png" />
+    <Content Include="images\home\Pictures\baby\bath.png" />
+    <Content Include="images\home\Pictures\baby\bottle-feeding.png" />
+    <Content Include="images\home\Pictures\baby\diaper.png" />
+    <Content Include="images\home\Pictures\baby\feed-icon.png" />
+    <Content Include="images\home\Pictures\baby\girl-cloths.png" />
+    <Content Include="images\home\Pictures\baby\health.png" />
+    <Content Include="images\home\Pictures\baby\pottytraining.png" />
+    <Content Include="images\home\Pictures\baby\toddler.png" />
+    <Content Include="images\home\Pictures\folder_icons\1.ico" />
+    <Content Include="images\home\Pictures\folder_icons\10.ico" />
+    <Content Include="images\home\Pictures\folder_icons\11.ico" />
+    <Content Include="images\home\Pictures\folder_icons\12.ico" />
+    <Content Include="images\home\Pictures\folder_icons\13.ico" />
+    <Content Include="images\home\Pictures\folder_icons\14.ico" />
+    <Content Include="images\home\Pictures\folder_icons\15.ico" />
+    <Content Include="images\home\Pictures\folder_icons\2.ico" />
+    <Content Include="images\home\Pictures\folder_icons\3.ico" />
+    <Content Include="images\home\Pictures\folder_icons\4.ico" />
+    <Content Include="images\home\Pictures\folder_icons\5.ico" />
+    <Content Include="images\home\Pictures\folder_icons\6.ico" />
+    <Content Include="images\home\Pictures\folder_icons\7-140311224P1.png" />
+    <Content Include="images\home\Pictures\folder_icons\7-140311224R4.png" />
+    <Content Include="images\home\Pictures\folder_icons\7.ico" />
+    <Content Include="images\home\Pictures\folder_icons\8.ico" />
+    <Content Include="images\home\Pictures\folder_icons\9.ico" />
+    <Content Include="images\home\Pictures\folder_icons\Instructions.txt" />
+    <Content Include="images\home\Pictures\folder_icons\Monsters-University-Character-Young-Mike-Icons.png" />
+    <Content Include="images\home\Pictures\folder_icons\Monsters-University-Icon-4.png" />
+    <Content Include="images\home\Pictures\folder_icons\Monsters-University-James-P-Sullivan-Icon.png" />
+    <Content Include="images\home\Pictures\folder_icons\Monsters-University-Squishy-Icon.png" />
+    <Content Include="images\home\Pictures\folder_icons\Monsters-University-Squishy-Running-Icon.png" />
+    <Content Include="images\home\Pictures\folder_icons\monsters_university_boo_png_by_kaardsm22jg-d6ow8t5.png" />
+    <Content Include="images\home\Pictures\ProductImages\AFH00027.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFH00034.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFH00037.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFJ00190.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFV00054.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFV00057.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFV00058.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AFV00059.jpg" />
+    <Content Include="images\home\Pictures\ProductImages\AGB00097.jpg" />
+    <Content Include="images\home\pricing.png" />
+    <Content Include="images\home\product1.jpg" />
+    <Content Include="images\home\product2.jpg" />
+    <Content Include="images\home\product3.jpg" />
+    <Content Include="images\home\product4.jpg" />
+    <Content Include="images\home\product5.jpg" />
+    <Content Include="images\home\product6.jpg" />
+    <Content Include="images\home\recommend1.jpg" />
+    <Content Include="images\home\recommend2.jpg" />
+    <Content Include="images\home\recommend3.jpg" />
+    <Content Include="images\home\sale.png" />
+    <Content Include="images\home\searchicon.png" />
+    <Content Include="images\home\shipping.jpg" />
+    <Content Include="images\home\Smart Shopping Tips.jpg" />
+    <Content Include="images\home\smartshopping_logo.gif" />
+    <Content Include="images\product-details\1.jpg" />
+    <Content Include="images\product-details\new.jpg" />
+    <Content Include="images\product-details\rating.png" />
+    <Content Include="images\product-details\share.png" />
+    <Content Include="images\product-details\similar1.jpg" />
+    <Content Include="images\product-details\similar2.jpg" />
+    <Content Include="images\product-details\similar3.jpg" />
+    <Content Include="images\shop\advertisement.jpg" />
+    <Content Include="images\shop\product10.jpg" />
+    <Content Include="images\shop\product11.jpg" />
+    <Content Include="images\shop\product12.jpg" />
+    <Content Include="images\shop\product7.jpg" />
+    <Content Include="images\shop\product8.jpg" />
+    <Content Include="images\shop\product9.jpg" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <EntityDeploy Include="Models\SmartShopping.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SmartShopping.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\SmartShopping.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SmartShopping.edmx</DependentUpon>
+      <LastGenOutput>SmartShopping.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\SmartShopping.edmx.diagram">
+      <DependentUpon>SmartShopping.edmx</DependentUpon>
+    </Content>
+    <Content Include="Models\SmartShopping.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SmartShopping.edmx</DependentUpon>
+      <LastGenOutput>SmartShopping.cs</LastGenOutput>
+    </Content>
+    <Content Include="Content\zocial-regular-webfont.eot" />
+    <Content Include="Content\zocial-regular-webfont.ttf" />
+    <Content Include="Content\zocial-regular-webfont.woff" />
+    <Content Include="images\home\Pictures\baby\Thumbs.db" />
+    <Content Include="images\home\Pictures\folder_icons\Thumbs.db" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\masonry.pkgd.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <Content Include="Views\Account\ConfirmEmail.cshtml" />
+    <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <Content Include="Views\Account\ExternalLoginFailure.cshtml" />
+    <Content Include="Views\Account\ForgotPassword.cshtml" />
+    <Content Include="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Account\ResetPassword.cshtml" />
+    <Content Include="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\SendCode.cshtml" />
+    <Content Include="Views\Account\VerifyCode.cshtml" />
+    <Content Include="Views\Manage\AddPhoneNumber.cshtml" />
+    <Content Include="Views\Manage\ChangePassword.cshtml" />
+    <Content Include="Views\Manage\Index.cshtml" />
+    <Content Include="Views\Manage\ManageLogins.cshtml" />
+    <Content Include="Views\Manage\SetPassword.cshtml" />
+    <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
+    <Content Include="Views\Shared\Lockout.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\LogIn\Index.cshtml" />
+    <Content Include="Views\LogIn\test.cshtml" />
+    <Content Include="Views\Account\VerifyMail.cshtml" />
+    <Content Include="Views\Account\CancelEmailAd.cshtml" />
+    <Content Include="Views\MemberCenter\CancelEmailAd.cshtml" />
+    <Content Include="Views\LogIn\RoleSelect.cshtml" />
+    <Content Include="Views\LogIn\RoleSelected.cshtml" />
+    <Content Include="Views\Product\Details.cshtml" />
+    <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Shared\_CategoryParent.cshtml" />
+    <Content Include="Views\Shared\_CategoryKids.cshtml" />
+    <Content Include="Views\Shared\_Brands.cshtml" />
+    <Content Include="Views\Shared\_CartPartial.cshtml" />
+    <Content Include="Views\Shared\OrderNavigator.cshtml" />
+    <Content Include="Views\Order\Index.cshtml" />
+    <Content Include="Views\Order\MyOrder.cshtml" />
+    <Content Include="Views\Order\MyOrderDetail.cshtml" />
+    <Content Include="Views\Home\_AdSliderPartial.cshtml" />
+    <Content Include="Views\Home\_FeaturesItemsPartial.cshtml" />
+    <Content Include="Views\Home\_HotItemsPartial.cshtml" />
+    <Content Include="Views\Home\_RecommendedItemsPartial.cshtml" />
+    <Content Include="Views\Map\Map.cshtml" />
+    <Content Include="Views\Calendar\Index.cshtml" />
+    <Content Include="Views\Shared\_AsideLayout.cshtml">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Views\ShoppingList\ShoppingList.cshtml" />
+    <Content Include="Views\ShoppingList\ShoppingCategoryPartial.cshtml" />
+    <Content Include="Views\ShoppingList\ListItemPartial.cshtml" />
+    <Content Include="Views\Product\Recommendation.cshtml" />
+    <Content Include="Views\Product\_RecommendationChartPartial.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\ShoppingList\" />
+    <Folder Include="Views\Cart\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="packages.config" />
+    <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53897</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44300/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

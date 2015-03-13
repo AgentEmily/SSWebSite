@@ -1,0 +1,13 @@
+html5shiv
+讓舊IE可以吃HTML5的標籤.
+
+PrettyPhoto
+無刷新圖片顯示插件
+
+jquery.scrollUp.min
+在網頁與部落格中加入回到頁首（Back To Top）的按鈕。
+http://www.gtwang.org/2013/12/scrollup-jquery-plugin-back-to-top.html
+
+price-range.js
+左側價格範圍插件
+http://demos.jquerymobile.com/1.0a2/#docs/forms/forms-slider.html

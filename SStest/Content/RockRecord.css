@@ -1,0 +1,528 @@
+﻿body {
+  padding:0px;
+  padding-bottom: 20px;
+  margin: 0;
+  font-size: small;
+  background-color: #E1E1E1;
+}
+
+.main
+{
+    background-color:white;
+    width:960px;
+    padding: 30px 30px 30px 30px;
+    margin-top: 100px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid #D3D3D3;
+   -moz-box-shadow: 1px 2px 4px 2px #D3D3D3;
+   -webkit-box-shadow: 1px 2px 4px 2px #D3D3D3;
+    box-shadow: 1px 2px 4px 2px #D3D3D3;
+
+}
+
+p {
+    line-height: 180%;
+}
+
+
+
+.headerTitle {
+   
+}
+
+a 
+{
+    color:#7B68EE;	
+    text-decoration: none;
+}
+
+a img {
+    border:none;
+}
+
+
+a:hover, .albumList-item .albumList-title:hover {
+   color: #FF4500;
+}
+
+.sliderItemList .hover img{
+    -moz-box-shadow: 0px 0px 4px 2px #FF4500;
+   -webkit-box-shadow: 0px 0px 4px 2px #FF4500;
+    box-shadow: 0px 0px 4px 2px #FF4500;
+    
+}
+
+
+.sliderItemList .hover *{
+    color: #FF4500;
+}
+
+
+
+input[type="submit"], input[type="button"], button {
+    font-weight:bold;
+}
+
+textarea {
+    font-size: 90%;
+}
+
+fieldset {
+    padding: 15px;
+}
+
+.display-label,.editor-label {
+    font-weight: bold;
+}
+
+
+
+.display-field,.editor-field {
+    margin-top: 15px;
+}
+
+.display-field,.editor-labelf {
+
+     color: #696969;
+}
+
+.display-block {
+    margin-top: 25px;
+}
+
+.price {
+    color: black;
+    font-weight: bold;
+}
+
+.datetime {
+    font-size: 80%;
+    color: gray;
+}
+
+.notContent {
+    font-weight: bold;
+    color: #696969;
+}
+
+.label {
+    color: gray;
+    vertical-align:top;
+}
+
+.photo {
+    border: 1px solid #D3D3D3;
+    padding: 5px;
+}
+
+.user-photo {
+    border: 1px solid #D3D3D3;
+    padding: 5px;
+}
+
+
+.editor input[type="text"],.editor input[type="password"],.editor input[type="email"] {
+    height: 20px;
+    width:  250px;
+}
+
+.error-message {
+    font-size: 250%;
+    color: red;
+    font-weight: bold;
+}
+
+a.createLink {
+
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.manageTable {
+    margin-top: 30px;
+}
+
+.warning {
+   color: red;
+}
+
+.success {
+    font-weight: bold;
+    padding: 15px;
+    border:1px solid #D3D3D3;
+    background-color: #FFFF99;
+    margin-bottom: 10px;
+    text-align:center;
+}
+
+
+.manageList {
+    list-style :none;
+    padding: 0;
+}
+
+.manageList li {
+    
+    margin-bottom: 10px;
+}
+
+.manageList li * {
+    display: inline-block;
+}
+
+.manageList li .manageList-title {
+    font-size: 115%;
+    font-weight: bold;
+    width: 350px;
+}
+
+.hasMenuContent .menu {
+    float: left;
+    border-right: 1px dotted #D3D3D3;
+    width: 150px;
+}
+
+.hasMenuContent .menu .selected * {
+    color: #FF4500;
+    font-weight: bold;
+}
+
+.hasMenuContent .menu .selected *:hover {
+    text-decoration: none;
+}
+
+.hasMenuContent .menu ul, ol {
+    list-style: none;
+    padding-left:0;
+}
+
+.hasMenuContent .menu li {
+    margin-bottom: 5px;
+}
+.hasMenuContent .content {
+    margin-left: 180px;
+    min-height: 250px;
+}
+
+.headerTitle {
+    margin-bottom: 15px;
+}
+
+.important-button {
+    padding: 8px;
+    color: white;
+    font-size: 130%;
+    font-weight: bold;
+    cursor: pointer;
+    border:1px solid #D3D3D3;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #FF4500;
+}
+
+.important-button:hover {
+    -moz-box-shadow: 0px 0px 4px 2px #D3D3D3;
+    -webkit-box-shadow: 0px 0px 4px 2px #D3D3D3;
+     box-shadow: 0px 0px 4px 2px #D3D3D3;
+     color:white;
+     text-decoration: none;
+}
+
+.create-button {
+    padding-left: 30px;
+    background:url("/Content/create.png") 3px center no-repeat #FF4500;
+}
+
+.confirm-button {
+    padding-left: 30px;
+    background:url("/Content/ok.png") 3px center no-repeat #FF4500;
+}
+
+.next-button {
+    padding-left: 30px;
+    background:url("/Content/next.png") 3px center no-repeat #FF4500;
+}
+
+.singal-textBox {
+    width: 450px;
+    font-size: 130%;
+    height: 40px;
+}
+
+.singal-button {
+    height: 40px;
+    margin-left: 10px;
+}
+
+.checkout-button-bottom {
+    height: 90px;
+    width: 100%;
+    border-top: 1px dotted #D3D3D3;
+    padding: 5px;
+}
+
+.checkout-button-bottom * {
+    margin-left: 15px;
+}
+.checkout-button-bottom-right {
+    float:right;
+}
+
+.logo-big {
+    text-align: center;
+    color: gray;
+}
+
+.account-form {
+    padding: 25px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+/****************************表格共用*********************************/
+.normaltable {
+    border-spacing: 0px;
+    border:1px solid #A9A9A9;
+    
+}
+
+.normaltable th 
+{
+   font-size: 100%;
+   background-color: #DCDCDC;
+   padding: 6px;
+   text-align: left;
+}
+
+ .normaltable tr:nth-child(even)  {
+   background-color: #FFF0F5;
+ }
+
+.normaltable td {
+    padding: 6px;
+}
+
+
+.list-item
+{
+   
+    padding: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+.albumList-item,.userReviewList-item {
+    min-height: 180px;
+}
+
+.list-item-AlbumTitle {
+     font-size: 130%;
+     font-weight: bold;
+     color: #A9A9A9;
+}
+
+ .list-item .list-item-left {
+     float: left;
+ }
+
+ .list-item .list-item-right{
+
+     margin-left:180px;
+ }
+
+.list-item .list-item-right div
+ {
+     margin-bottom:10px;
+ }
+
+
+.list-title {
+     font-size: 130%;
+     font-weight: bold;
+     color: #A9A9A9;
+ }
+
+.list-img {
+   padding: 5px;
+   border: 1px solid #D3D3D3;
+   -moz-box-shadow: 2px 2px  gray;
+   -webkit-box-shadow: 2px 2px 1px 1px gray;
+    box-shadow: 2px 2px 1px 1px gray;
+}
+
+/*********************************購物*****************************************/
+
+#orderForm .editor-field {
+    margin-bottom: 15px;
+}
+
+#orderForm .editor-field input[type="text"],input[type="tel"] {
+    height: 20px;
+    width: 400px;
+
+}
+
+#orderForm textarea {
+    height: 300px;
+    width: 400px;
+}
+
+#orderForm #orderForm-addressDetail input[type="text"] {
+    width: 60px;
+    margin-right: 5px;
+}
+
+#order-productItems {
+   border-bottom: 1px dotted #D3D3D3;
+}
+
+#order-orderHeaderDetail div {
+    margin-top: 10px;
+}
+
+#orderNavigator {
+    list-style: none;
+    font-weight: bold;
+    margin:0;
+    padding:0;
+    cursor: default;
+}
+
+#orderNavigator li {
+    color: darkgray;
+    padding: 10px;
+    display: inline-block;
+    
+}
+
+#orderNavigator li.selected {
+    color: red;
+}
+
+
+
+
+
+
+/**********************************評論相關*******************************************/
+
+
+
+.rating, .rating-small {
+    background: url("/Content/sprite-stars.png") no-repeat;
+    display: inline-block;
+}
+
+.rating,.rating-small {
+    width: 90px;
+    height: 16px;
+
+}
+
+.rating-small {
+    width: 60px;
+    height: 11px;
+}
+
+.rating[stars="0"] {
+    background-position: -90px 0;
+}
+
+.rating[stars="1"] {
+    background-position: -70px 0;
+}
+
+.rating[stars="2"] {
+    background-position: -55px 0;
+}
+
+.rating[stars="3"] {
+    background-position: -36px 0;
+}
+
+.rating[stars="4"] {
+    background-position: -18px 0;
+}
+
+ .rating[stars="5"] {
+     background-position: 0 0;
+ }
+
+ .rating-small[stars="0"]{
+    background-position: -60px -40px
+ }
+.rating-small[stars="1"]{
+    background-position: -48px -40px
+}
+.rating-small[stars="2"]{
+    background-position: -36px -40px
+}
+.rating-small[stars="3"]{
+    background-position: -24px -40px
+}
+.rating-small[stars="4"]{
+    background-position: -12px -40px
+}
+.rating-small[stars="5"]{
+    background-position:0 -40px
+}
+
+
+.review-albumCover {
+    float: left;
+    margin-right:7px;
+}
+
+.reviewDetail {
+    min-height: 350px;
+}
+
+
+
+
+/***********************留言通用樣式******************************/
+.commentList-item {
+    min-height:100px;
+}
+
+.commentList-item-left {
+    float: left;
+}
+
+.commentList-item-right {
+    margin-left: 95px;
+}
+
+.commentList-item-header-right {
+    float: right;
+}
+
+
+#dialog {
+    padding: 15px;
+    width: 200px;
+    height: 90px;
+    background-color: white;
+    border:1px solid gray;
+   -moz-box-shadow: 1px 2px 4px 2px #D3D3D3;
+   -webkit-box-shadow: 1px 2px 4px 2px #D3D3D3;
+    box-shadow: 1px 2px 4px 2px #D3D3D3;
+    z-index: 100;
+}
+
+
+
+#dialog .buttonBar {
+    height: 40px;
+}
+
+#dialog .buttonBar button {
+    float: right;
+    margin-left: 5px;
+}
+

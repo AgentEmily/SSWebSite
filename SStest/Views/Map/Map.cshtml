@@ -1,0 +1,102 @@
+﻿@model IEnumerable<SStest.Models.ShoppingList>
+@{
+    ViewBag.Title = "Map";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    #list {
+        margin: 0 0 10px 0;
+        padding: 0;
+    }
+
+        #list li {
+            display: inline-block;
+        }
+
+            #list li a {
+                padding: 4px;
+                background-color: gray;
+                color: white;
+                text-decoration: none;
+            }
+
+                #list li a:hover {
+                    background: black;
+                }
+
+    #map {
+        margin: 10px;
+        width: 100%;
+        height: 1200px;
+    }
+</style>
+
+<div class="col-sm-9 padding-right">
+
+    <!--Google地圖的div-->
+    <ul id="list">
+        <li>點選：</li>
+        <!-- 建立地址清單 -->
+        @foreach (var a in this.Model)
+        {
+            <li><a href="#">@a.ListName</a></li>
+        }
+    </ul>
+    <div id="map"></div>
+</div><!--<div class="col-sm-9 padding-right">的尾巴-->
+<!-- Include Google Maps API (Google Maps API v3 已不需使用 API Key) -->
+<script src="//maps.google.com/maps/api/js?sensor=false"></script>
+<!-- Require jQuery v1.7.0 or newer -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="~/Scripts/jquery.tinyMap.min.js"></script>
+
+<script>
+    var map = $('#map');
+    var addrLists = [];
+
+    $.ajax({
+        type: 'POST',
+        url: '@Url.Action("AddrListsByM_ID", "Map")',
+        data: {},
+        dataType: "json",
+    }).done(function (addrLists) {
+        map.tinyMap({
+            'center': { 'x': '25.04151536540612', 'y': '121.56354904174805' },
+            'zoom': 16,
+            'marker': addrLists /* 給予每個標記唯一的 id 值 */
+        });
+    });
+
+    //marker的click事件
+    $('#list').on('click', 'a', function () {
+        var obj = $(this),
+            id = obj.text(),
+            m = {},
+            marker = {},
+            markers = [],
+            i = 0;
+
+        // 取得 tinyMap 實例
+        m = map.data('tinyMap');
+        // 取得所有標記
+        markers = m._markers;
+        // 取得所有標記
+
+        for (i; i < markers.length; i += 1) {
+            marker = markers[i];
+            // 關閉所有 infoWindow
+            marker.infoWindow.close();
+            console.dir(typeof marker.infoWindow.close);
+            // 若標記 id 符合則開啟 infoWindow
+            if (id === marker.id) {
+                marker.infoWindow.open(m.map, marker);
+                // 移動地圖
+                m.map.panTo(marker.position);
+                break;
+            }
+        }
+    });
+
+</script>
+

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<SStest.Models.ShoppingList>
+@foreach (var _item in Model)
+{
+    <li class="list-group-item">
+        <div class="checkbox-inline">
+
+            <a class="opendetail" href="~/ShoppingList/Detail?id=@_item.List_ID" data-toggle="tooltip" data-placement="left" title="點擊設定產品">
+                @_item.ListName
+            </a>
+            
+        </div>
+
+        <div class="pull-right action-buttons">
+            <a href="~/ShoppingList/Detail?id=@_item.List_ID"><span class="glyphicon glyphicon-pencil"></span></a>
+            <a href="~/ShoppingList/DeleteItem?listid=@_item.List_ID" class="trash"><span class="glyphicon glyphicon-trash"></span></a>
+        </div>
+    </li>
+}
+
+

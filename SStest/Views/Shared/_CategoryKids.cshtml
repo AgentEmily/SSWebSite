@@ -1,0 +1,7 @@
+﻿@model IEnumerable<SStest.Models.Categories>
+
+@foreach (var _category in Model)
+{
+    <li><a href="/Product/CategorySearch?cid=@_category.Category_ID">@_category.CategoryName</a></li>
+}
+

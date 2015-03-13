@@ -1,0 +1,35 @@
+﻿@{
+    //取得當前購物車所有內容
+    var currentCart = SStest.Models.Carts.Operation.GetCurrentCart();
+}
+<a id="CartDropDown" class="dropdown-toggle" data-toggle="dropdown">
+    @String.Format("購物車 ({0})", currentCart.Count)
+    <span class="caret"></span>
+</a>
+<ul class="dropdown-menu Cart" role="menu" aria-labelledby="CartDropDown">
+    @if (currentCart.Count > 0)   //判斷 若購物車內商品數量大於零才顯示商品資訊行
+    {
+        foreach (var cartitem in currentCart)
+        {
+            //依序輸出 : <li><a>光泉鮮乳 <span> 110元 × 2</span></a></li>
+            <li class="col-xs-12">             
+                <span class="col-xs-10">@cartitem.ProductName   @cartitem.UnitPrice 元 × @cartitem.Stock</span>
+                <span class="btn btn-danger col-xs-1" onclick="RemoveFromCart('@cartitem.Product_ID')">
+                    ×
+                </span>
+            </li>
+        }
+        <li class="divider"></li>
+        <li>
+            <div id="CartButtons" class="col-xs-12">
+                <a class="btn btn-success text-center col-xs-5" href="@Url.Action("Index", "Order", new { })">結帳去</a>
+                <a class="btn btn-danger text-center col-xs-5" onclick="ClearCart()">清空</a>
+            </div>
+        </li>
+    }
+    else
+    {
+        <li><a class="btn btn-default text-center" href="#">購物車無任何商品</a></li>
+    }
+</ul>
+

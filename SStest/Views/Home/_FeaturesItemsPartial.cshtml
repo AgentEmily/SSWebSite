@@ -1,0 +1,36 @@
+﻿@model IEnumerable<SStest.Models.Products>
+
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">每日好康</h2>
+    @foreach (var fItem in Model)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <div class="imgbox ">
+                            <img src='@Url.Action("GetProductPhoto", "Home", new { id = @fItem.Product_ID })' alt="" />
+                        </div>
+                        <h2>$@fItem.UnitPrice</h2>
+                        <p>@fItem.ProductName</p>
+                    </div>
+                    <div class="product-overlay">
+                        <div class="overlay-content">
+                            <h2>$@(System.Convert.ToInt32(fItem.UnitPrice * 0.8))</h2>
+                            <p>@fItem.ProductName</p>
+                                <a href="#" class="btn btn-default add-to-cart" onclick="AddToCart('@fItem.Product_ID')"><i class="fa fa-shopping-cart"></i>加入購物車</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="choose">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="#"><i class="fa fa-plus-square"></i>加入智慧清單</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+</div><!--features_items-->

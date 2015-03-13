@@ -1,0 +1,66 @@
+﻿@model IEnumerable<SStest.Models.ProductModels>
+
+@{
+    Layout = "~/Views/Shared/_AsideLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<style>
+ 
+    .thumbnail{
+    width: 300px;
+    height: 400px;
+    overflow: auto;
+    margin:10px;
+   
+}
+
+    .thumbnail img{
+         height: 150px; 
+        
+    }
+
+.thumbnail .productimg{
+    
+     height: 150px; width: 220px; overflow: hidden; 
+     margin:0 auto;
+  
+}
+</style>
+
+<div class="container">
+    
+    <div class="row">
+        @if (this.Model.Count()==0)
+        {
+        <h3>查無產品</h3>
+        }
+        @foreach (var a in this.Model)
+        {
+            
+             <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">          
+                    <a href="@Url.Action("Details", new { id = a.Product_ID })">
+                        <div class="productimg"><img src='@Url.Action("GetImageByte", "Product", new { id = a.Product_ID })'></div>
+                    </a>
+                    @*<img class="ProductImg" src="@a.Picture" alt="商品圖片">*@
+                    <div class="caption">
+                        <h3>@a.ProductName</h3>
+                    <p>@a.Description</p>
+                    <p>售價 : @a.Price</p>
+                    <p>庫存 : @a.Stock</p>
+                    <p>
+                        <a onclick="AddToCart('@a.Product_ID')" href="javascript:void(0);"
+                           class="btn btn-primary" role="button">
+                            加入購物車
+                        </a>
+                        <a href="@Url.Action("Details", new { id = a.Product_ID })" class="btn btn-primary" role="button">
+                            詳細資訊
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>

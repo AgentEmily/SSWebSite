@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="caf646747ace4ff99fb74c2bd8ab324e" Name="Diagram1" ZoomLevel="10">
+        <EntityTypeShape EntityType="SmartShoppingModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="2" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AdSlider" Width="1.5" PointX="2.75" PointY="2" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AdTicker" Width="1.5" PointX="0.75" PointY="5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AspNetRoles" Width="1.5" PointX="10.75" PointY="3.75" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AspNetUserClaims" Width="1.5" PointX="15.25" PointY="2.25" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AspNetUserLogins" Width="1.5" PointX="15.25" PointY="5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AspNetUsers" Width="1.5" PointX="13" PointY="2.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.AutoMail" Width="1.5" PointX="2.75" PointY="5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Brands" Width="1.5" PointX="3" PointY="17.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Categories" Width="1.5" PointX="3" PointY="21.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.CoinGift" Width="1.5" PointX="7.5" PointY="14.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Comment" Width="1.5" PointX="7.5" PointY="18.25" />
+        <EntityTypeShape EntityType="SmartShoppingModel.InsideEmailList" Width="1.5" PointX="0.75" PointY="8" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Members" Width="1.5" PointX="6" PointY="7.875" />
+        <EntityTypeShape EntityType="SmartShoppingModel.OrderDetail" Width="1.5" PointX="7.5" PointY="24.25" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Orders" Width="1.5" PointX="8.25" PointY="0.75" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Outside" Width="1.5" PointX="12.75" PointY="24.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.PaymentMethod" Width="1.5" PointX="6" PointY="27.375" />
+        <EntityTypeShape EntityType="SmartShoppingModel.PList" Width="1.5" PointX="8.25" PointY="34.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.ProductPictures" Width="1.5" PointX="7.5" PointY="46.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Products" Width="1.5" PointX="5.25" PointY="19.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Promotions" Width="1.5" PointX="7.5" PointY="30.75" />
+        <EntityTypeShape EntityType="SmartShoppingModel.PurchaseOrderDetail" Width="1.5" PointX="10.5" PointY="26.25" />
+        <EntityTypeShape EntityType="SmartShoppingModel.PurchaseOrders" Width="1.5" PointX="8.25" PointY="49.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Recommendation" Width="1.5" PointX="7.5" PointY="37" />
+        <EntityTypeShape EntityType="SmartShoppingModel.RecommendationChart" Width="1.5" PointX="7.5" PointY="43.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Repeat" Width="1.5" PointX="10.5" PointY="13.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.RepurchaseCycle" Width="1.5" PointX="12.75" PointY="21.25" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Returns" Width="1.5" PointX="2.75" PointY="8" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Roles" Width="1.5" PointX="8.25" PointY="9.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.RolesDetail" Width="1.5" PointX="8.25" PointY="21.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.RoleSmart" Width="1.5" PointX="10.5" PointY="16.375" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Royalty" Width="1.5" PointX="8.25" PointY="6.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.ShipMethod" Width="1.5" PointX="6" PointY="2.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.ShoppingList" Width="1.5" PointX="10.5" PointY="20.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Source" Width="1.5" PointX="0.75" PointY="21.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.SSAuthority" Width="1.5" PointX="13" PointY="8.125" />
+        <EntityTypeShape EntityType="SmartShoppingModel.SSPrograms" Width="1.5" PointX="10.75" PointY="29.5" />
+        <EntityTypeShape EntityType="SmartShoppingModel.SSUsers" Width="1.5" PointX="10.75" PointY="8.375" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Status" Width="1.5" PointX="6" PointY="4.625" />
+        <EntityTypeShape EntityType="SmartShoppingModel.Vendors" Width="1.5" PointX="6" PointY="49.75" />
+        <AssociationConnector Association="SmartShoppingModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="SmartShoppingModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Products_Brands" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Categories_Categories" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Categories_Source" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Products_Categories" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RolesDetail_Categories" />
+        <AssociationConnector Association="SmartShoppingModel.FK_CoinGift_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Comment_Members" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Comment_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PList_Members" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Royalty_Members" />
+        <AssociationConnector Association="SmartShoppingModel.FK_OrderDetail_Orders" />
+        <AssociationConnector Association="SmartShoppingModel.FK_OrderDetail_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Orders_PaymentMethod" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Orders_ShipMethod" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Orders_Status" />
+        <AssociationConnector Association="SmartShoppingModel.FK_ShoppingList_Orders" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Outside_ShoppingList" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PurchaseOrders_PaymentMethod" />
+        <AssociationConnector Association="SmartShoppingModel.FK_ShoppingList_PList" />
+        <AssociationConnector Association="SmartShoppingModel.FK_ProductPictures_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PurchaseOrderDetail_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_Recommendation_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RecommendationChart_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RoleSmart_Products" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PurchaseOrderDetail_PurchaseOrders" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PurchaseOrders_Status" />
+        <AssociationConnector Association="SmartShoppingModel.FK_PurchaseOrders_Vendors" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RepurchaseCycle_Repeat" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RepurchaseCycle_ShoppingList" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RolesDetail_Roles" />
+        <AssociationConnector Association="SmartShoppingModel.FK_RoleSmart_Roles" />
+        <AssociationConnector Association="SmartShoppingModel.FK_SSAuthority_SSPrograms" />
+        <AssociationConnector Association="SmartShoppingModel.FK_SSAuthority_SSUsers" />
+        <AssociationConnector Association="SmartShoppingModel.AspNetUserRoles" />
+        <AssociationConnector Association="SmartShoppingModel.MemberRole" />
+        <AssociationConnector Association="SmartShoppingModel.PromotionDetail" />
+        <AssociationConnector Association="SmartShoppingModel.ShoppingListInside" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

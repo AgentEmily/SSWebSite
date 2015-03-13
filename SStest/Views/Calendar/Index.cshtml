@@ -1,0 +1,142 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@section css{
+    
+
+<link href="~/Content/fullcalendar.min.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    <style>
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+
+    }
+
+    <h2>購物清單 - 日曆檢視</h2>
+
+    
+           
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="mdo">新增</button>
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">新項目</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="recipient-name" class="control-label">描述:</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">日期:</label>
+                        @*<textarea class="form-control" id="message-text"></textarea>*@
+
+                        <div class='input-group date' id='datetimepicker1'>
+                            <input type='text' class="form-control" />
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-th"></span>
+                            </span>
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                <button type="button" class="btn btn-primary">新增</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id='calendar'></div>
+
+        @section scripts{
+<script src="~/Scripts/moment.min.js"></script>
+           
+            <script src="~/Content/fullcalendar.min.js"></script>
+<script src="~/Scripts/bootstrap-datetimepicker.min.js"></script>
+            <script>
+              
+                $(document).ready(function () {
+                    $('#datetimepicker1').datetimepicker();
+                    $('#calendar').fullCalendar({
+                        header: {
+                            left: 'prev,next today',
+                            center: 'title',
+                            right: 'month,agendaWeek,agendaDay'
+                        },
+                        defaultDate: '2015-02-12',
+                        selectable: true,
+                        selectHelper: true,
+                        select: function (start, end) {
+                           
+                            var title = prompt('Event Title:');
+                            var eventData;
+                            if (title) {
+                                eventData = {
+                                    title: title,
+                                    start: start,
+                                    end: end
+                                };
+                                $('#calendar').fullCalendar('renderEvent', eventData, true); // stick? = true
+
+                                $.ajax({
+                                    type: 'POST',
+                                    url: '@Url.Action("Added","Calendar")',
+                                    data: { title: title, date: start }
+                                })
+                            }
+                            $('#calendar').fullCalendar('unselect');
+                        },
+                        editable: true,
+                        eventLimit: true, // allow "more" link when too many events
+                        events: {
+                            url: '~/Calendar/GetEvent',
+                            error: function () {
+                                $('#script-warning').show();
+                            }
+                        },
+
+                        eventDrop: function (event, delta, revertFunc) {
+
+                            alert(event.title + " was dropped on " + event.start.format());
+
+                            if (!confirm("Are you sure about this change?")) {
+                                revertFunc();
+                            } else {
+                                $.ajax({
+                                    type: 'POST',
+                                    url: '@Url.Action("Dropped","Calendar")',
+                                    data: { title: event.title, date: event.start.format(), id: event.id }
+                                })
+                            }
+
+                        }
+
+                    });
+
+                });
+                $('#exampleModal').on('show.bs.modal', function (event) {
+                    var button = $(event.relatedTarget) // Button that triggered the modal
+                    var recipient = button.data('whatever') // Extract info from data-* attributes
+                    // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+                    // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+                    var modal = $(this)
+                    modal.find('.modal-title').text('新增項目 ')
+                    modal.find('.modal-body input').val(recipient)
+                })
+
+               
+            
+               
+            </script>
+        }
+
+

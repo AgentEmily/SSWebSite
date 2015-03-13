@@ -1,0 +1,57 @@
+﻿@model IEnumerable<SStest.Models.PList>
+
+<div class="col-sm-4">
+    <div>
+        @using (Html.BeginForm("CategoryInsert", "ShoppingList", FormMethod.Post))
+        {
+            @Html.TextBox("item", "", new { @class = "form-control" });
+            <input class="btn btn-primary" type="submit" id="submit" value="+" style="font-size:larger; font-weight:600" />
+        }
+    </div>
+    <div class="list-group">
+        @foreach (var _List in Model)
+        {
+            <a href="~/ShoppingList/ShoppingListP?id=@_List.PList_ID" class="list-group-item">
+                @_List.ListName
+            </a>
+        }
+    </div>
+</div>
+
+<div class=" col-sm-4">
+    <div>
+        @using (Html.BeginForm("AddItem", "ShoppingList", FormMethod.Post))
+        {
+
+            @Html.TextBox("item", "", new { @class = "form-control" });
+            <input class="btn btn-primary" type="submit" id="submit" value="+" style="font-size:larger; font-weight:600" />
+        }
+    </div>
+    <ul class="list-group">
+        @Html.Action("ListItemPartial", "ShoppingList")
+        @*@foreach (var _item in Model)
+        {
+            <li class="list-group-item">
+                <div class="checkbox-inline">
+
+                    <a href="#" data-toggle="tooltip" data-placement="left" title="點擊設定產品">
+                        @_item.ListName
+                    </a>
+
+                </div>
+
+                <div class="pull-right action-buttons">
+                    <a href="http://www.jquery2dotnet.com"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a href="http://www.jquery2dotnet.com" class="trash"><span class="glyphicon glyphicon-trash"></span></a>
+                    <a href="http://www.jquery2dotnet.com" class="flag"><span class="glyphicon glyphicon-flag"></span></a>
+                </div>
+            </li>
+        }*@
+
+
+    </ul>
+</div>
+
+
+
+

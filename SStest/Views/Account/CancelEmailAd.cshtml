@@ -1,0 +1,20 @@
+﻿@model SStest.Models.Members
+@{
+    ViewBag.Title = "CancelEmailAd";
+}
+
+<h2>CancelEmailAd</h2>
+<p>如果您不想收到 Smart Shopping 所發送的電子郵件，請輸入您的電子信箱。</p>
+<hr />
+@using(Html.BeginForm("CancelAd", "Account",FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="login-form">
+        @Html.TextBoxFor(m => m.Email, new { @class="form-control"})
+        <div class="form-group">
+            <input type="submit" value="取消訂閱" />
+        </div>
+        </div>
+}
+
+

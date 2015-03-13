@@ -1,0 +1,24 @@
+﻿@model IEnumerable<SStest.Models.Categories>
+
+@foreach (var _category in Model)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordian" href="#@_category.Category_ID">
+                    <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                    @_category.CategoryName 
+                </a>
+            </h4>
+        </div>
+        <div id="@_category.Category_ID" class="panel-collapse collapse">
+            <div class="panel-body">
+                <ul>
+                    @Html.Action("CategoryKids", "Product", new { id = @_category.Category_ID })
+
+                </ul>
+            </div>
+        </div>
+    </div><!--主分類1-->
+
+}

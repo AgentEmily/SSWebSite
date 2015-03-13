@@ -1,0 +1,48 @@
+﻿#cartList {
+    width:100%;
+    border-spacing:0;
+    text-align: left;
+}
+
+#cartList input[type="text"] {
+    width: 30px;
+    height: 30px;
+}
+
+#cartList thead th {
+    font-size: 130%;
+    font-weight: bold;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+
+
+#cartList td,#cartList th {
+    padding: 10px;
+
+}
+
+.cart-item-title {
+  width: 40%
+}
+
+.cart-item-price {
+
+  width: 20%;
+}
+
+#cartList tfoot {
+
+  text-align: right;
+}
+
+.cartTotal {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+
+.checkout-button {
+   padding-left: 30px;
+   background:url("/Content/checkout.png") 3px center no-repeat #FF4500;
+}

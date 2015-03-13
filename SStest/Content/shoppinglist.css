@@ -1,0 +1,195 @@
+/***
+Theme Name: Shopping List jQuery App
+Description: Testing out some jQuery
+Author: Who Else? EKT!
+Tags: Thinkful, project, jQuery, shopping list
+***/
+
+body {
+	background-color: #fff;
+}
+
+#page, #bottom {
+    text-align: center;
+	margin-top: 10px;
+}
+
+#box-1 { 
+	position: fixed;
+	top: 0;
+	right: 0; 
+	width: 26%;
+	height: 100%;
+	background: #ECF1EF;
+}
+
+#box-2 { 
+	position: fixed;
+	top: 0;
+	left: 0; 
+	width: 26%;
+	height: 100%;
+	background: #ECF1EF;
+}
+
+
+/* Top Content */
+#main {
+	font-family: 'Istok Web', 'Raleway';
+	font-size: 15px;
+}
+
+#icon {
+	margin-top: -20px;
+}
+
+h1 {
+	font-family: 'Raleway';
+	margin-top: -10px;
+	text-transform: uppercase;
+}
+
+.text {
+	text-align: center;
+	margin-top: 22px;
+	margin-left: 37%;
+	margin-right: 37%;
+}
+
+
+/* Input Etc. */
+#form {
+	margin-top: 20px;
+}
+
+#addItem {
+	height: 30px;
+	background-color: rgba(0,0,0, 0.22);
+	border: 0;
+	border-radius: 3px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 20px 5px 20px;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro', arial;
+}
+
+#addItem:hover {
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+}
+
+#addItem:focus {
+	outline: none;
+}
+
+#newItem {
+	height: 25px;
+	width: 260px;
+	font-family: 'Source Sans Pro', arial;
+	font-size: .95em;
+	font-style: italic;
+	text-indent: 7px;
+	border: 1px solid rgb(0,0,0);
+	border-radius: 3px;
+}
+
+#newItem:focus {
+	outline: none;
+}
+
+.line {
+	margin: 20px;
+	border-bottom: 1px solid #000;
+	width: 35%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+/* Bottom Content */
+#bottom {
+	width: 35%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-family: 'Istok Web', 'Raleway';
+	font-size: 15px;
+}
+
+#itemList {
+	text-align: left;
+	padding-left: 10px;
+}
+
+.list {
+	display: inline-block;
+}
+
+.box {
+	padding: 0 10px;
+	display: inline-block;
+}
+
+li {
+	font-family: 'Source Sans Pro';
+	font-size: 1em;
+	text-transform: uppercase;
+	display: block;
+	padding: 4px 0;
+}
+
+.dim {
+	color: #f0f0f0;
+}
+
+.checkbox {
+	height: 30px;
+	background-color: rgba(0,0,0, 0.1);
+	border: 0;
+	border-radius: 3px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 20px 5px 20px;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro', arial;
+}
+
+.checkbox:hover {
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+}
+
+.checkbox:focus {
+	outline: none;
+}
+
+.delete {
+	height: 30px;
+	background-color: rgba(0,0,0, 0.1);
+	border: 0;
+	border-radius: 3px;
+	margin-right: 13px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 20px 5px 20px;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	font-family: 'Source Sans Pro', arial;
+	float: right;
+}
+
+.delete:hover {
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+}
+
+.delete:focus {
+	outline: none;
+}

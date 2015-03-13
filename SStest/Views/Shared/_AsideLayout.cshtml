@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "_AsideLayout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@RenderSection("adSlider", false)<!--slider 廣告輪播-->
+<section><!--section 主要內容-->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm-3">
+                <!--左側Menu-->
+                <div class="left-sidebar">
+
+                    <div class="panel-group category-products" id="accordian">
+                        <!--/商品分類-->
+                        <h2>商品分類</h2>
+
+                        @Html.Action("CategoryParent","Product")
+                       
+                    </div><!--/商品分類-->
+
+                    <div class="brands_products">
+                        <!--/品牌分類-->
+                        <h2>品牌</h2>
+                        <div class="brands-name">
+                            <ul class="nav nav-pills nav-stacked">
+                                @Html.Action("Brands", "Product")
+                            </ul>
+                        </div>
+                    </div><!--/品牌分類-->
+
+                    <div class="price-range">
+                        <!--價格區間-->
+                        <h2>價格區間</h2>
+                        <div class="well text-center">
+                            <input type="text" class="span2" value="" data-slider-min="0" data-slider-max="600" data-slider-step="5" data-slider-value="[250,450]" id="sl2">
+                            <br />
+                            <b class="pull-left">$ 0</b>
+                            <b class="pull-right">$ 600</b>
+                        </div>
+                    </div><!--價格區間-->
+
+                    <div class="shipping text-center">
+                        <!--左側小廣告-->
+
+                        <img src="~/images/home/shipping.jpg" />
+                    </div><!--左側小廣告-->
+
+                </div>
+            </div><!--左側Menu-->
+            <div class="col-sm-9 padding-right">
+                <!--右側商品展示-->
+                @RenderBody()
+            </div><!--右側商品展示-->
+        </div>
+
+    </div>
+</section><!--section 主要內容-->

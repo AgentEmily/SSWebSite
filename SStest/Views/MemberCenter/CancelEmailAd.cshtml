@@ -1,0 +1,31 @@
+﻿@model SStest.Models.Members
+
+
+<h2>取消訂閱</h2>
+@if (!ViewBag.Confirmed)
+{
+    <p>如果您不想收到 Smart Shopping 所發送的電子郵件，請輸入您的電子信箱。</p>
+    <hr />
+    using (Html.BeginForm("CancelAd", "MemberCenter",FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="login-form">
+            <h5>Email</h5>
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            <div class="form-group">
+                <input type="submit" value="取消訂閱" />
+            </div>
+        </div>
+    }
+
+}
+else
+{
+    <p>您的取消訂閱設定已更新。</p>
+    <p>謝謝!</p>
+    <hr />
+    @Html.ActionLink("回首頁", "Index", "Home");
+    
+    <br /><br />
+}
+

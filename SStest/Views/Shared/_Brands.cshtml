@@ -1,0 +1,8 @@
+﻿@model IEnumerable<SStest.Models.Brands>
+
+@foreach (var _brand in Model)
+{
+    <li>
+        <a href="#"> <span class="pull-right">(數量)</span>@_brand.BrandName</a>
+    </li><!--品牌1-->
+}

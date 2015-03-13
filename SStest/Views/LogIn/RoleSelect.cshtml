@@ -1,0 +1,201 @@
+﻿@model IEnumerable<SStest.Models.Roles>
+@{
+    List<int> id = new List<int>();
+    id.Add(1);
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RoleSelect</title>
+    <style>
+        /** {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}*/
+
+
+#mscontainer{
+    
+    height:400px;
+}
+.masonry{
+    width:600px;
+    margin:30px auto;
+}
+
+
+.masonry .item { 
+  width:  120px;
+  height: 60px;
+  float: left;
+  background: #808080;
+  border: 1px solid;
+  border-color: #E0E0E0;
+  border-radius: 5px;
+  text-align:center;
+  color:white;
+  margin-bottom: 10px;
+  padding:0;
+  font-size:20px;
+  font-weight:bold;
+}
+.item.w2 {  width:  180px;
+  height: 60px;
+  float: left;
+  background: #808080;
+  border: 1px solid;
+  border-color: #E0E0E0;
+  border-radius: 5px;
+  text-align:center;/*上下也要*/
+  padding:10px 0px 10px 0px;
+  color:white;
+  margin-bottom: 10px;
+  opacity:0.7;
+}
+
+.item:hover {
+  background: #00CACA;
+  border-color: white;
+  cursor: pointer;
+  opacity:0.5;
+}
+
+.item.gigante {
+  width: 210px;
+  height: 90px;
+ background-color:  #00CACA; 
+ padding:25px 0px 20px 0px;
+ opacity:1;
+
+}
+
+    </style>
+</head>
+<body>
+    <div style="margin:10px auto; text-align:center; font-size:20px;font-weight:bold;">請選擇符合您的身分或描述, 我們將為您量身訂做購物清單...</div>
+
+    <div class="masonry js-masonry" data-masonry-options='{ "columnWidth": 60@*, "gutter": 5*@  }'>
+        <!--"isFitWidth":true-->
+                @foreach (var _role in Model)
+                {
+                    <a id="aroles" onclick="RoleSelected('@_role.Roles_ID')" href="javascript:void(0);"><div class="item w2">@_role.RolesName</div></a>
+                }
+        
+        @*<div class="item">上班族</div>*@
+       
+        <!--每一個項目創一個div, 同樣的大小設同樣的class-->
+    </div>
+    @*<button type="button" class="btn btn-default get" style="float:right">@Html.ActionLink("click", "RoleSelected", "LogIn", new { id=id})</button>
+        <button type="button" class="btn btn-default get" style="float:right">下一步 >></button>*@
+    <div id="idToRegister">
+        <a id="aok" onclick="RoleSelected(0)" href="javascript:void(0);" class=" btn btn-default get" role="button" style="float:right">
+            下一步 >>
+        </a>
+    </div>
+    
+    
+        @section scripts{
+            <script src="~/Scripts/masonry.pkgd.min.js"></script>
+            <script src="https://rawgithub.com/desandro/classie/master/classie.js"></script>
+            <script>
+
+
+    docReady(function () {
+
+        var container = document.querySelector('.masonry');
+        //notifElem = document.querySelector('#notification');
+        var msnry = new Masonry(container, {
+            columnWidth: 60
+        });
+
+        msnry.on('layoutComplete', function (msnryInstance, laidOutItems) {
+            //notify('Masonry layout completed on ' + laidOutItems.length + ' items');
+        });
+
+        eventie.bind(container, 'click', function (event) {
+            // don't proceed if item was not clicked on
+            if (!classie.has(event.target, 'item')) {
+                return;
+            }
+            // change size of item via class
+            classie.toggle(event.target, 'gigante');
+            // trigger layout
+            msnry.layout();
+        });
+
+    });
+    var SelectedRole = [];
+
+    function RoleSelected(RoleID) {
+
+
+        if ($.inArray(RoleID, SelectedRole) == -1 && RoleID !== 0) {
+            SelectedRole.push(RoleID);
+
+        }
+        else if ($.inArray(RoleID, SelectedRole) !== -1 && RoleID !== 0) {
+            SelectedRole = $.grep(SelectedRole, function (value) {
+                return value != RoleID;
+            })
+        } else if (RoleID == 0) {
+
+
+
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("RoleSelected","LogIn")',
+                data: { id: SelectedRole }
+
+            })
+            .done(function (datas) {
+
+                SelectedRole = [];
+                var category;
+                $('.masonry').empty();
+                $.each(datas, function (i, category) {
+
+
+                    var categoryid = category.categoryid;
+                    var div = $('<div></div>').text(category.categoryname).addClass('item w2').val(category.categoryid);
+                    div.hide().fadeIn(1000);
+
+                    var a = $('<a class="arole" href="javascript:void(0);"></a>').append(div);
+
+                    //處理動態產生事件綁定
+                    a.click(function () { RoleSelected(categoryid) })
+
+                    $('.masonry').append(a);
+
+                })//==End of each==//
+
+                $('#aok').click(function (event) {
+                    alert(SelectedRole);
+                    $.ajax({
+                        type: 'POST',
+                        url: '@Url.Action("CategorySelected", "LogIn")',
+                        data: { id: SelectedRole }
+
+                    })
+                        .done(function (datas) {
+                        //$('#aok').remove();
+                        @*$('#idToRegister').append(@Html.ActionLink("下一步","Register","Account", routeValues: null, htmlAttributes: new { id = "registerLink" }))*@
+                        @Html.Action("ShoppingList", "ShoppingList");
+
+                    })
+                })
+
+            })
+
+
+        }
+
+    }
+
+</script>
+        }
+
+</body>
+</html>

@@ -1,0 +1,310 @@
+﻿@model SStest.Controllers.MyShoppingList
+@{
+    ViewBag.Title = "ShoppingList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@section css{
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+    <style>
+        .row.rowshopping {
+            margin-top: 50px;
+        }
+
+        .form-group label {
+            float: left;
+            text-align: left;
+            font-weight: normal;
+        }
+
+        .form-group select, .form-group input {
+            display: inline-block;
+            width: auto;
+            vertical-align: middle;
+        }
+
+        #slide-submenu {
+            background: #00CACA;
+            display: inline-block;
+            padding: 0 8px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .label.label-info {
+            margin-left: 10px;
+        }
+
+        .form-group {
+            margin-top: 20px;
+        }
+    </style>
+}
+
+<h2>智慧購物清單</h2>
+<div class="row rowshopping">
+    @*<div class="col-sm-4">
+            <div>
+                @using (Html.BeginForm("CategoryInsert", "ShoppingList", FormMethod.Post))
+                {
+                    @Html.TextBox("item", "", new { @class = "form-control" });
+                    <input class="btn btn-primary" type="submit" id="submit" value="+" style="font-size:larger; font-weight:600" />
+                }
+            </div>
+            <div class="list-group">
+                @Html.Action("ShoppingCategoryPartial", "ShoppingList")
+
+            </div>
+        </div>
+        <div class=" col-sm-4">
+            <div>
+                @using (Html.BeginForm("AddItem", "ShoppingList", FormMethod.Post))
+                {
+
+                    @Html.TextBox("item", "", new { @class = "form-control" });
+                    <input class="btn btn-primary" type="submit" id="submit" value="+" style="font-size:larger; font-weight:600" />
+                }
+            </div>
+            <ul class="list-group">
+                @foreach (var _item in Model)
+                {
+                    <li class="list-group-item">
+                        <div class="checkbox-inline">
+
+                            <a href="#" data-toggle="tooltip" data-placement="left" title="點擊設定產品">
+                                @_item.ListName
+                            </a>
+
+                        </div>
+
+                        <div class="pull-right action-buttons">
+                            <a href="http://www.jquery2dotnet.com"><span class="glyphicon glyphicon-pencil"></span></a>
+                            <a href="http://www.jquery2dotnet.com" class="trash"><span class="glyphicon glyphicon-trash"></span></a>
+                            <a href="http://www.jquery2dotnet.com" class="flag"><span class="glyphicon glyphicon-flag"></span></a>
+                        </div>
+                    </li>
+                }
+
+
+            </ul>
+        </div>*@
+    @Html.Action("ShoppingCategoryPartial", "ShoppingList")
+    <!--沒有點開不要讀資料-->
+    @if (ViewBag.Clicked != null)
+    {
+        <div id="iddetail">
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                    <!-- Default panel contents -->
+                    <div class="panel-heading">
+                        <h4>
+                            編輯自動訂貨: @Model.listname
+                            <a onclick="SaveChanges('@Model.id')" href="javascript:void(0);">
+                                <span class="pull-right" id="slide-submenu">
+                                    <i class="fa fa-check"></i>
+                                </span>
+                            </a>
+                        </h4>
+
+                    </div>
+
+                    <div class="panel-body">
+                        <form class="form-inline">
+                            <div class="form-group">
+                                <label for="cardNumber">
+                                    選擇產品:
+                                    <a href="~/Product/Search?SearchText=@Model.productname&id=@Model.id">@Model.productname</a>
+                                    @if (Model.productname != "瀏覽相關產品")
+                                    {
+                                        <a href="~/Product/Search?SearchText=@Model.listname&id=@Model.id"
+                                           class=" btn btn-danger" role="button">
+                                            選擇其他商品
+                                        </a>
+                                    }
+                                    
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label class="" for="購買頻率: 每">
+                                    購買頻率: 每
+                                    <select onchange="RepeatnoSetting()" class="form-control" id="selectNO">
+                                        <option value="0">請選擇</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10 </option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                    </select>
+
+                                    <select onchange="RepeatbySetting()" class="form-control" id="selectBY">
+                                        <option value="1">月</option>
+                                        <option value="2">週</option>
+                                        <option value="3">天</option>
+
+                                    </select>
+                                    一次
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label for="cardNumber">上次購買日:</label>
+
+                                <span class="label label-info">@string.Format("{0:yyyy/MM/dd}", Model.lastdate)</span>
+
+                            </div>
+                            <div class="form-group">
+                                <label for="cardNumber">下次出貨日:<input class="form-control" type="text" id="datepicker" size="30"></label>
+
+
+                            </div>
+                            <div class="form-group">
+                                <label class="" for="qty">
+                                    數量: 
+                                    <select onchange="" class="form-control" id="selectQTY">
+                                        
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10 </option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                    </select>
+
+                                </label>
+                            </div>
+
+
+
+                        </form>
+
+
+                    </div>
+
+                    <!-- Table -->
+
+                </div>
+            </div>
+        </div>
+    }
+
+
+</div>
+@section scripts{
+    <script src="//code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+    <script>
+        @*var d = new Date();
+        var month=d.getMonth()+1
+        d=@Model.nextdate;*@
+    $(function () {
+        $("#datepicker").datepicker();
+
+        $("#datepicker").datepicker("option", "showAnim", "fadeIn");
+        $('[data-toggle="tooltip"]').tooltip()
+
+
+
+
+
+    });
+    //var mydate = new Date("2015, 11, 30")
+    @if (ViewBag.Clicked!=null)
+	{
+        string date = string.Format("{0:yyyy,MM,dd}", @Model.nextdate);
+        string lastdate = string.Format("{0:yyyy,MM,dd}", @Model.lastdate);
+        int listid=1;
+        int repeatno=1;
+        int repeatby=1;
+        DateTime nextdate=DateTime.Today;
+
+		  <text>
+    var mydate = new Date(@date);//轉出來多了一個月
+    var NDmonthadjust = new Date(new Date(mydate).setMonth(mydate.getMonth() -1));
+
+    $(function () {
+        $('#selectNO').val(@Model.repeatno);
+        $('#selectBY').val(@Model.repeatby);
+        $('#selectQTY').val(@Model.quantity);
+        //$('#datePicker').datepicker({ dateFormat: 'MM-dd-yyyy' });
+        $("#datepicker").datepicker("setDate", NDmonthadjust);
+        $('.opendetail').click(function () {
+            $('#iddetail').toggle()//not finished
+        })
+
+    });
+    var currentdate;
+    var repeatno1;
+    var repeatby1;
+    function SaveChanges(id) {
+
+
+        currentdate = $("#datepicker").datepicker("getDate").toDateString();
+        repeatno1 = $('#selectNO').val();
+        repeatby1 = $('#selectBY').val();
+        qty = $('#selectQTY').val();
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("SaveChanges","ShoppingList")',
+            data: {
+                listid: id,
+                repeatno: repeatno1,
+                repeatby: repeatby1,
+                nextdate: currentdate,
+                quantity:qty
+            }
+
+
+        })
+                .done(function (datas) {
+                    $('#iddetail').toggle();
+
+                })
+
+    }
+    var mylastdate = new Date(@lastdate);
+    var LDmonthadjust = new Date(new Date(mylastdate).setMonth(mylastdate.getMonth() - 1));
+    function RepeatnoSetting() {
+        var no = $('#selectNO').val();//2
+        var by = $('#selectBY').val();//1
+        var intno = parseInt(no);
+        var newND = new Date(LDmonthadjust.valueOf());
+
+        if (by==1) {
+            newND.setMonth(LDmonthadjust.getMonth() + intno);
+
+        } else if (by==2) {
+            newND.setDate(LDmonthadjust.getDate() + intno*7);
+
+        } else if (by==3) {
+
+            newND.setDate(LDmonthadjust.getDate() + intno);
+
+        }
+        $("#datepicker").datepicker("setDate", newND);
+
+    }
+
+    function RepeatbySetting() {
+        var no = $('#selectNO').val();
+        var by = $('#selectBY').val();
+
+    }
+
+    </text>	}
+
+
+
+    </script>
+}

@@ -1,0 +1,1330 @@
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\SStest.dll.config
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\SStest.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\SStest.pdb
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Antlr3.Runtime.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\EntityFramework.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Newtonsoft.Json.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Helpers.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Mvc.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Optimization.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Razor.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\WebGrease.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Helpers.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Mvc.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Optimization.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.Razor.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Newtonsoft.Json.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\EntityFramework.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\obj\Debug\SStest.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\網站\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\網站\SStest\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\網站\SStest\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\網站\SStest\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\網站\SStest\SStest\bin\SStest.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Owin.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\網站\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\SStest\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest\SStest\obj\Debug\SStest.pdb
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\SStest.dll.config
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\SStest.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\SStest.pdb
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Antlr3.Runtime.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\EntityFramework.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Newtonsoft.Json.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Owin.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Helpers.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Mvc.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Optimization.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Razor.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\WebGrease.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Helpers.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Mvc.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Optimization.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.Razor.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Newtonsoft.Json.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\EntityFramework.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\obj\Debug\SStest.dll
+C:\Users\emily_1413\Desktop\Frontend\SStest\SStest\SStest\obj\Debug\SStest.pdb
+K:\Front End\SStest\SStest\bin\SStest.dll.config
+K:\Front End\SStest\SStest\bin\SStest.dll
+K:\Front End\SStest\SStest\bin\SStest.pdb
+K:\Front End\SStest\SStest\bin\Antlr3.Runtime.dll
+K:\Front End\SStest\SStest\bin\EntityFramework.dll
+K:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.dll
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Front End\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+K:\Front End\SStest\SStest\bin\Newtonsoft.Json.dll
+K:\Front End\SStest\SStest\bin\Owin.dll
+K:\Front End\SStest\SStest\bin\System.Web.Helpers.dll
+K:\Front End\SStest\SStest\bin\System.Web.Mvc.dll
+K:\Front End\SStest\SStest\bin\System.Web.Optimization.dll
+K:\Front End\SStest\SStest\bin\System.Web.Razor.dll
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.dll
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+K:\Front End\SStest\SStest\bin\WebGrease.dll
+K:\Front End\SStest\SStest\bin\System.Web.Helpers.xml
+K:\Front End\SStest\SStest\bin\System.Web.Mvc.xml
+K:\Front End\SStest\SStest\bin\System.Web.Optimization.xml
+K:\Front End\SStest\SStest\bin\System.Web.Razor.xml
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.xml
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+K:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+K:\Front End\SStest\SStest\bin\Antlr3.Runtime.pdb
+K:\Front End\SStest\SStest\bin\Newtonsoft.Json.xml
+K:\Front End\SStest\SStest\bin\EntityFramework.xml
+K:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.xml
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+K:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+K:\Front End\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+K:\Front End\SStest\SStest\obj\Debug\SStest.dll
+K:\Front End\SStest\SStest\obj\Debug\SStest.pdb
+G:\Front End\SStest\SStest\bin\SStest.dll.config
+G:\Front End\SStest\SStest\bin\SStest.dll
+G:\Front End\SStest\SStest\bin\SStest.pdb
+G:\Front End\SStest\SStest\bin\Antlr3.Runtime.dll
+G:\Front End\SStest\SStest\bin\EntityFramework.dll
+G:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.dll
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Front End\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+G:\Front End\SStest\SStest\bin\Newtonsoft.Json.dll
+G:\Front End\SStest\SStest\bin\Owin.dll
+G:\Front End\SStest\SStest\bin\System.Web.Helpers.dll
+G:\Front End\SStest\SStest\bin\System.Web.Mvc.dll
+G:\Front End\SStest\SStest\bin\System.Web.Optimization.dll
+G:\Front End\SStest\SStest\bin\System.Web.Razor.dll
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.dll
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+G:\Front End\SStest\SStest\bin\WebGrease.dll
+G:\Front End\SStest\SStest\bin\System.Web.Helpers.xml
+G:\Front End\SStest\SStest\bin\System.Web.Mvc.xml
+G:\Front End\SStest\SStest\bin\System.Web.Optimization.xml
+G:\Front End\SStest\SStest\bin\System.Web.Razor.xml
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.xml
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+G:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+G:\Front End\SStest\SStest\bin\Antlr3.Runtime.pdb
+G:\Front End\SStest\SStest\bin\Newtonsoft.Json.xml
+G:\Front End\SStest\SStest\bin\EntityFramework.xml
+G:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.xml
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+G:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\Front End\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+G:\Front End\SStest\SStest\obj\Debug\SStest.dll
+G:\Front End\SStest\SStest\obj\Debug\SStest.pdb
+F:\Front End\SStest\SStest\bin\SStest.dll.config
+F:\Front End\SStest\SStest\bin\SStest.dll
+F:\Front End\SStest\SStest\bin\SStest.pdb
+F:\Front End\SStest\SStest\bin\Antlr3.Runtime.dll
+F:\Front End\SStest\SStest\bin\EntityFramework.dll
+F:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.dll
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Front End\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+F:\Front End\SStest\SStest\bin\Newtonsoft.Json.dll
+F:\Front End\SStest\SStest\bin\Owin.dll
+F:\Front End\SStest\SStest\bin\System.Web.Helpers.dll
+F:\Front End\SStest\SStest\bin\System.Web.Mvc.dll
+F:\Front End\SStest\SStest\bin\System.Web.Optimization.dll
+F:\Front End\SStest\SStest\bin\System.Web.Razor.dll
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.dll
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+F:\Front End\SStest\SStest\bin\WebGrease.dll
+F:\Front End\SStest\SStest\bin\System.Web.Helpers.xml
+F:\Front End\SStest\SStest\bin\System.Web.Mvc.xml
+F:\Front End\SStest\SStest\bin\System.Web.Optimization.xml
+F:\Front End\SStest\SStest\bin\System.Web.Razor.xml
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.xml
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+F:\Front End\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+F:\Front End\SStest\SStest\bin\Antlr3.Runtime.pdb
+F:\Front End\SStest\SStest\bin\Newtonsoft.Json.xml
+F:\Front End\SStest\SStest\bin\EntityFramework.xml
+F:\Front End\SStest\SStest\bin\EntityFramework.SqlServer.xml
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Front End\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Front End\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Front End\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Front End\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+F:\Front End\SStest\SStest\obj\Debug\SStest.dll
+F:\Front End\SStest\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest-2015-03-01\SStest\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest(璧卉)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest(璧卉)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+F:\Front End\SStest(0304合)\SStest\bin\SStest.dll.config
+F:\Front End\SStest(0304合)\SStest\bin\SStest.dll
+F:\Front End\SStest(0304合)\SStest\bin\SStest.pdb
+F:\Front End\SStest(0304合)\SStest\bin\Antlr3.Runtime.dll
+F:\Front End\SStest(0304合)\SStest\bin\EntityFramework.dll
+F:\Front End\SStest(0304合)\SStest\bin\EntityFramework.SqlServer.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Google.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Web.Infrastructure.dll
+F:\Front End\SStest(0304合)\SStest\bin\Newtonsoft.Json.dll
+F:\Front End\SStest(0304合)\SStest\bin\Owin.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Helpers.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Mvc.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Optimization.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Razor.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.Deployment.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.Razor.dll
+F:\Front End\SStest(0304合)\SStest\bin\WebGrease.dll
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Helpers.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Mvc.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Optimization.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.Razor.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.Deployment.xml
+F:\Front End\SStest(0304合)\SStest\bin\System.Web.WebPages.Razor.xml
+F:\Front End\SStest(0304合)\SStest\bin\Antlr3.Runtime.pdb
+F:\Front End\SStest(0304合)\SStest\bin\Newtonsoft.Json.xml
+F:\Front End\SStest(0304合)\SStest\bin\EntityFramework.xml
+F:\Front End\SStest(0304合)\SStest\bin\EntityFramework.SqlServer.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Google.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Front End\SStest(0304合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Front End\SStest(0304合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Front End\SStest(0304合)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+F:\Front End\SStest(0304合)\SStest\obj\Debug\SStest.dll
+F:\Front End\SStest(0304合)\SStest\obj\Debug\SStest.pdb
+K:\Front End\SStest(0304合1)\SStest\bin\SStest.dll.config
+K:\Front End\SStest(0304合1)\SStest\bin\SStest.dll
+K:\Front End\SStest(0304合1)\SStest\bin\SStest.pdb
+K:\Front End\SStest(0304合1)\SStest\bin\Antlr3.Runtime.dll
+K:\Front End\SStest(0304合1)\SStest\bin\EntityFramework.dll
+K:\Front End\SStest(0304合1)\SStest\bin\EntityFramework.SqlServer.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Google.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Web.Infrastructure.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Newtonsoft.Json.dll
+K:\Front End\SStest(0304合1)\SStest\bin\Owin.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Helpers.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Mvc.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Optimization.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Razor.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.Deployment.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.Razor.dll
+K:\Front End\SStest(0304合1)\SStest\bin\WebGrease.dll
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Helpers.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Mvc.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Optimization.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.Razor.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.Deployment.xml
+K:\Front End\SStest(0304合1)\SStest\bin\System.Web.WebPages.Razor.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Antlr3.Runtime.pdb
+K:\Front End\SStest(0304合1)\SStest\bin\Newtonsoft.Json.xml
+K:\Front End\SStest(0304合1)\SStest\bin\EntityFramework.xml
+K:\Front End\SStest(0304合1)\SStest\bin\EntityFramework.SqlServer.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Google.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Front End\SStest(0304合1)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+K:\Front End\SStest(0304合1)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+K:\Front End\SStest(0304合1)\SStest\obj\Debug\SStest.dll
+K:\Front End\SStest(0304合1)\SStest\obj\Debug\SStest.pdb
+K:\Front End\SStest(0304合1)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest(0305合)\SStest\obj\Debug\SStest.pdb
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\SStest.dll.config
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\SStest.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\SStest.pdb
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Antlr3.Runtime.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\EntityFramework.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Web.Infrastructure.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Newtonsoft.Json.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Owin.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Helpers.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Mvc.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Optimization.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Razor.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\WebGrease.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Helpers.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Mvc.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Optimization.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.Razor.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Antlr3.Runtime.pdb
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Newtonsoft.Json.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\EntityFramework.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\obj\Debug\SStest.dll
+\\192.168.33.108\專題資料隨便丟資料夾\第二組\SStest(0305合)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\網站\SStest(0305合)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest(0309合)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest(0309合)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest(0310)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\SStest(0310)\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\SStest.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Owin.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\SStest(0312香)\SStest\obj\Debug\SStest.pdb
+C:\Users\III\Desktop\0312合\SStest\obj\Debug\SStest.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\0312合\SStest\obj\Debug\SStest.dll
+C:\Users\III\Desktop\0312合\SStest\bin\SStest.dll.config
+C:\Users\III\Desktop\0312合\SStest\bin\SStest.dll
+C:\Users\III\Desktop\0312合\SStest\bin\SStest.pdb
+C:\Users\III\Desktop\0312合\SStest\bin\Antlr3.Runtime.dll
+C:\Users\III\Desktop\0312合\SStest\bin\EntityFramework.dll
+C:\Users\III\Desktop\0312合\SStest\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\0312合\SStest\bin\Owin.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Optimization.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.Razor.dll
+C:\Users\III\Desktop\0312合\SStest\bin\WebGrease.dll
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Optimization.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\III\Desktop\0312合\SStest\bin\System.Web.WebPages.Razor.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Antlr3.Runtime.pdb
+C:\Users\III\Desktop\0312合\SStest\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\0312合\SStest\bin\EntityFramework.xml
+C:\Users\III\Desktop\0312合\SStest\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\III\Desktop\0312合\SStest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\III\Desktop\0312合\SStest\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\III\Desktop\0312合\SStest\obj\Debug\SStest.pdb

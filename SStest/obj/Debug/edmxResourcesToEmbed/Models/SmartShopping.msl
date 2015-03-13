@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SmartShoppingModelStoreContainer" CdmEntityContainer="SmartShoppingEntities">
+    <EntitySetMapping Name="C__MigrationHistory">
+      <EntityTypeMapping TypeName="SmartShoppingModel.C__MigrationHistory">
+        <MappingFragment StoreEntitySet="__MigrationHistory">
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ContextKey" ColumnName="ContextKey" />
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdSlider">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AdSlider">
+        <MappingFragment StoreEntitySet="AdSlider">
+          <ScalarProperty Name="Title_S" ColumnName="Title_S" />
+          <ScalarProperty Name="Title_M" ColumnName="Title_M" />
+          <ScalarProperty Name="Title_B" ColumnName="Title_B" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdTicker">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AdTicker">
+        <MappingFragment StoreEntitySet="AdTicker">
+          <ScalarProperty Name="TagLine" ColumnName="TagLine" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetRoles">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AspNetRoles">
+        <MappingFragment StoreEntitySet="AspNetRoles">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserClaims">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AspNetUserClaims">
+        <MappingFragment StoreEntitySet="AspNetUserClaims">
+          <ScalarProperty Name="ClaimValue" ColumnName="ClaimValue" />
+          <ScalarProperty Name="ClaimType" ColumnName="ClaimType" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserLogins">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AspNetUserLogins">
+        <MappingFragment StoreEntitySet="AspNetUserLogins">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ProviderKey" ColumnName="ProviderKey" />
+          <ScalarProperty Name="LoginProvider" ColumnName="LoginProvider" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUsers">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AspNetUsers">
+        <MappingFragment StoreEntitySet="AspNetUsers">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="AccessFailedCount" ColumnName="AccessFailedCount" />
+          <ScalarProperty Name="LockoutEnabled" ColumnName="LockoutEnabled" />
+          <ScalarProperty Name="LockoutEndDateUtc" ColumnName="LockoutEndDateUtc" />
+          <ScalarProperty Name="TwoFactorEnabled" ColumnName="TwoFactorEnabled" />
+          <ScalarProperty Name="PhoneNumberConfirmed" ColumnName="PhoneNumberConfirmed" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="SecurityStamp" ColumnName="SecurityStamp" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="EmailConfirmed" ColumnName="EmailConfirmed" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AutoMail">
+      <EntityTypeMapping TypeName="SmartShoppingModel.AutoMail">
+        <MappingFragment StoreEntitySet="AutoMail">
+          <ScalarProperty Name="ProductString" ColumnName="ProductString" />
+          <ScalarProperty Name="AdString" ColumnName="AdString" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Brands">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Brands">
+        <MappingFragment StoreEntitySet="Brands">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="BrandName" ColumnName="BrandName" />
+          <ScalarProperty Name="Brand_ID" ColumnName="Brand_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="Source_ID" ColumnName="Source_ID" />
+          <ScalarProperty Name="PCategory_ID" ColumnName="PCategory_ID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="Category_ID" ColumnName="Category_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CoinGift">
+      <EntityTypeMapping TypeName="SmartShoppingModel.CoinGift">
+        <MappingFragment StoreEntitySet="CoinGift">
+          <ScalarProperty Name="GetWithCoin" ColumnName="GetWithCoin" />
+          <ScalarProperty Name="P_ID" ColumnName="P_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comment">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Comment">
+        <MappingFragment StoreEntitySet="Comment">
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Stars" ColumnName="Stars" />
+          <ScalarProperty Name="Comment1" ColumnName="Comment" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+          <ScalarProperty Name="Comment_ID" ColumnName="Comment_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InsideEmailList">
+      <EntityTypeMapping TypeName="SmartShoppingModel.InsideEmailList">
+        <MappingFragment StoreEntitySet="InsideEmailList">
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Sent" ColumnName="Sent" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="DeliveryDate" ColumnName="DeliveryDate" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="MemberName" ColumnName="MemberName" />
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+          <ScalarProperty Name="List_ID" ColumnName="List_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Members">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Members">
+        <MappingFragment StoreEntitySet="Members">
+          <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
+          <ScalarProperty Name="AdOK" ColumnName="AdOK" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="LastDeliveryDate" ColumnName="LastDeliveryDate" />
+          <ScalarProperty Name="M_Picture" ColumnName="M_Picture" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="MobilePhone" ColumnName="MobilePhone" />
+          <ScalarProperty Name="TelPhone" ColumnName="TelPhone" />
+          <ScalarProperty Name="Birthdate" ColumnName="Birthdate" />
+          <ScalarProperty Name="Birthyear" ColumnName="Birthyear" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="MemberName" ColumnName="MemberName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetail">
+      <EntityTypeMapping TypeName="SmartShoppingModel.OrderDetail">
+        <MappingFragment StoreEntitySet="OrderDetail">
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+          <ScalarProperty Name="OrderDetail_ID" ColumnName="OrderDetail_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="Status_ID" ColumnName="Status_ID" />
+          <ScalarProperty Name="PaymentMethod_ID" ColumnName="PaymentMethod_ID" />
+          <ScalarProperty Name="ShipMethod_ID" ColumnName="ShipMethod_ID" />
+          <ScalarProperty Name="ShipAddress" ColumnName="ShipAddress" />
+          <ScalarProperty Name="Consignee" ColumnName="Consignee" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="ShippingFee" ColumnName="ShippingFee" />
+          <ScalarProperty Name="ValueAddTax" ColumnName="ValueAddTax" />
+          <ScalarProperty Name="SubTotal" ColumnName="SubTotal" />
+          <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+          <ScalarProperty Name="ArrivalDate" ColumnName="ArrivalDate" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Outside">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Outside">
+        <MappingFragment StoreEntitySet="Outside">
+          <ScalarProperty Name="LastDate" ColumnName="LastDate" />
+          <ScalarProperty Name="List_ID" ColumnName="List_ID" />
+          <ScalarProperty Name="Outside_ID" ColumnName="Outside_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PaymentMethod">
+      <EntityTypeMapping TypeName="SmartShoppingModel.PaymentMethod">
+        <MappingFragment StoreEntitySet="PaymentMethod">
+          <ScalarProperty Name="PaymentMethod1" ColumnName="PaymentMethod" />
+          <ScalarProperty Name="PaymentMethod_ID" ColumnName="PaymentMethod_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PList">
+      <EntityTypeMapping TypeName="SmartShoppingModel.PList">
+        <MappingFragment StoreEntitySet="PList">
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+          <ScalarProperty Name="ListName" ColumnName="ListName" />
+          <ScalarProperty Name="PList_ID" ColumnName="PList_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductPictures">
+      <EntityTypeMapping TypeName="SmartShoppingModel.ProductPictures">
+        <MappingFragment StoreEntitySet="ProductPictures">
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="ProductPicture_ID" ColumnName="ProductPicture_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="LastDeliveryDate" ColumnName="LastDeliveryDate" />
+          <ScalarProperty Name="LastReceiptDate" ColumnName="LastReceiptDate" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Brand_ID" ColumnName="Brand_ID" />
+          <ScalarProperty Name="Category_ID" ColumnName="Category_ID" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="QtyperUnit" ColumnName="QtyperUnit" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Promotions">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Promotions">
+        <MappingFragment StoreEntitySet="Promotions">
+          <ScalarProperty Name="AdHtml" ColumnName="AdHtml" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="PromotionName" ColumnName="PromotionName" />
+          <ScalarProperty Name="Promotion_ID" ColumnName="Promotion_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PurchaseOrderDetail">
+      <EntityTypeMapping TypeName="SmartShoppingModel.PurchaseOrderDetail">
+        <MappingFragment StoreEntitySet="PurchaseOrderDetail">
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="PurchaseOrder_ID" ColumnName="PurchaseOrder_ID" />
+          <ScalarProperty Name="PurchaseOrderDetail_ID" ColumnName="PurchaseOrderDetail_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PurchaseOrders">
+      <EntityTypeMapping TypeName="SmartShoppingModel.PurchaseOrders">
+        <MappingFragment StoreEntitySet="PurchaseOrders">
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="Status_ID" ColumnName="Status_ID" />
+          <ScalarProperty Name="PaymentMethod_ID" ColumnName="PaymentMethod_ID" />
+          <ScalarProperty Name="ShipAddress" ColumnName="ShipAddress" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="ShippingFee" ColumnName="ShippingFee" />
+          <ScalarProperty Name="ValueAddTax" ColumnName="ValueAddTax" />
+          <ScalarProperty Name="SubTotal" ColumnName="SubTotal" />
+          <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="Vendor_ID" ColumnName="Vendor_ID" />
+          <ScalarProperty Name="PurchaseOrder_ID" ColumnName="PurchaseOrder_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recommendation">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Recommendation">
+        <MappingFragment StoreEntitySet="Recommendation">
+          <ScalarProperty Name="P24" ColumnName="P24" />
+          <ScalarProperty Name="P23" ColumnName="P23" />
+          <ScalarProperty Name="P22" ColumnName="P22" />
+          <ScalarProperty Name="P21" ColumnName="P21" />
+          <ScalarProperty Name="P20" ColumnName="P20" />
+          <ScalarProperty Name="P19" ColumnName="P19" />
+          <ScalarProperty Name="P18" ColumnName="P18" />
+          <ScalarProperty Name="P17" ColumnName="P17" />
+          <ScalarProperty Name="P16" ColumnName="P16" />
+          <ScalarProperty Name="P15" ColumnName="P15" />
+          <ScalarProperty Name="P14" ColumnName="P14" />
+          <ScalarProperty Name="P13" ColumnName="P13" />
+          <ScalarProperty Name="P12" ColumnName="P12" />
+          <ScalarProperty Name="P11" ColumnName="P11" />
+          <ScalarProperty Name="P10" ColumnName="P10" />
+          <ScalarProperty Name="P9" ColumnName="P9" />
+          <ScalarProperty Name="P8" ColumnName="P8" />
+          <ScalarProperty Name="P7" ColumnName="P7" />
+          <ScalarProperty Name="P6" ColumnName="P6" />
+          <ScalarProperty Name="P5" ColumnName="P5" />
+          <ScalarProperty Name="P4" ColumnName="P4" />
+          <ScalarProperty Name="P3" ColumnName="P3" />
+          <ScalarProperty Name="P2" ColumnName="P2" />
+          <ScalarProperty Name="P1" ColumnName="P1" />
+          <ScalarProperty Name="PID" ColumnName="PID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RecommendationChart">
+      <EntityTypeMapping TypeName="SmartShoppingModel.RecommendationChart">
+        <MappingFragment StoreEntitySet="RecommendationChart">
+          <ScalarProperty Name="NOName" ColumnName="NOName" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="NO" ColumnName="NO" />
+          <ScalarProperty Name="PID" ColumnName="PID" />
+          <ScalarProperty Name="ListID" ColumnName="ListID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Repeat">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Repeat">
+        <MappingFragment StoreEntitySet="Repeat">
+          <ScalarProperty Name="RepeatDay" ColumnName="RepeatDay" />
+          <ScalarProperty Name="RepeatMonth" ColumnName="RepeatMonth" />
+          <ScalarProperty Name="Repeat_ID" ColumnName="Repeat_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RepurchaseCycle">
+      <EntityTypeMapping TypeName="SmartShoppingModel.RepurchaseCycle">
+        <MappingFragment StoreEntitySet="RepurchaseCycle">
+          <ScalarProperty Name="SetDate" ColumnName="SetDate" />
+          <ScalarProperty Name="Repeat_ID" ColumnName="Repeat_ID" />
+          <ScalarProperty Name="OutList_ID" ColumnName="OutList_ID" />
+          <ScalarProperty Name="List_ID" ColumnName="List_ID" />
+          <ScalarProperty Name="RepurchaseCycle_ID" ColumnName="RepurchaseCycle_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Returns">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Returns">
+        <MappingFragment StoreEntitySet="Returns">
+          <ScalarProperty Name="Done" ColumnName="Done" />
+          <ScalarProperty Name="ReturnDate" ColumnName="ReturnDate" />
+          <ScalarProperty Name="Reason" ColumnName="Reason" />
+          <ScalarProperty Name="Refund" ColumnName="Refund" />
+          <ScalarProperty Name="OrderDetail_ID" ColumnName="OrderDetail_ID" />
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="RolesName" ColumnName="RolesName" />
+          <ScalarProperty Name="Roles_ID" ColumnName="Roles_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RolesDetail">
+      <EntityTypeMapping TypeName="SmartShoppingModel.RolesDetail">
+        <MappingFragment StoreEntitySet="RolesDetail">
+          <ScalarProperty Name="SelectedCount" ColumnName="SelectedCount" />
+          <ScalarProperty Name="Categories_ID" ColumnName="Categories_ID" />
+          <ScalarProperty Name="Roles_ID" ColumnName="Roles_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoleSmart">
+      <EntityTypeMapping TypeName="SmartShoppingModel.RoleSmart">
+        <MappingFragment StoreEntitySet="RoleSmart">
+          <ScalarProperty Name="OrderBilling" ColumnName="OrderBilling" />
+          <ScalarProperty Name="TimesPurchased" ColumnName="TimesPurchased" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Royalty">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Royalty">
+        <MappingFragment StoreEntitySet="Royalty">
+          <ScalarProperty Name="Coin" ColumnName="Coin" />
+          <ScalarProperty Name="LoginCount" ColumnName="LoginCount" />
+          <ScalarProperty Name="MemberLevel" ColumnName="MemberLevel" />
+          <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ShipMethod">
+      <EntityTypeMapping TypeName="SmartShoppingModel.ShipMethod">
+        <MappingFragment StoreEntitySet="ShipMethod">
+          <ScalarProperty Name="ShipMethod1" ColumnName="ShipMethod" />
+          <ScalarProperty Name="ShipMethod_ID" ColumnName="ShipMethod_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ShoppingList">
+      <EntityTypeMapping TypeName="SmartShoppingModel.ShoppingList">
+        <MappingFragment StoreEntitySet="ShoppingList">
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+          <ScalarProperty Name="RepeatBy" ColumnName="RepeatBy" />
+          <ScalarProperty Name="RepeatNumber" ColumnName="RepeatNumber" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="NextDate" ColumnName="NextDate" />
+          <ScalarProperty Name="LastDate" ColumnName="LastDate" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Link" ColumnName="Link" />
+          <ScalarProperty Name="ListName" ColumnName="ListName" />
+          <ScalarProperty Name="PList_ID" ColumnName="PList_ID" />
+          <ScalarProperty Name="List_ID" ColumnName="List_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Source">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Source">
+        <MappingFragment StoreEntitySet="Source">
+          <ScalarProperty Name="Source1" ColumnName="Source" />
+          <ScalarProperty Name="Source_ID" ColumnName="Source_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SSAuthority">
+      <EntityTypeMapping TypeName="SmartShoppingModel.SSAuthority">
+        <MappingFragment StoreEntitySet="SSAuthority">
+          <ScalarProperty Name="Edit" ColumnName="Edit" />
+          <ScalarProperty Name="Run" ColumnName="Run" />
+          <ScalarProperty Name="Program_ID" ColumnName="Program_ID" />
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SSPrograms">
+      <EntityTypeMapping TypeName="SmartShoppingModel.SSPrograms">
+        <MappingFragment StoreEntitySet="SSPrograms">
+          <ScalarProperty Name="ProgramName" ColumnName="ProgramName" />
+          <ScalarProperty Name="Program_ID" ColumnName="Program_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SSUsers">
+      <EntityTypeMapping TypeName="SmartShoppingModel.SSUsers">
+        <MappingFragment StoreEntitySet="SSUsers">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="Status1" ColumnName="Status" />
+          <ScalarProperty Name="Status_ID" ColumnName="Status_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vendors">
+      <EntityTypeMapping TypeName="SmartShoppingModel.Vendors">
+        <MappingFragment StoreEntitySet="Vendors">
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="LastDeliveryDate" ColumnName="LastDeliveryDate" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="MobilePhone" ColumnName="MobilePhone" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="TelPhone" ColumnName="TelPhone" />
+          <ScalarProperty Name="Representative" ColumnName="Representative" />
+          <ScalarProperty Name="UnifiedBusinessNumber" ColumnName="UnifiedBusinessNumber" />
+          <ScalarProperty Name="VendorName" ColumnName="VendorName" />
+          <ScalarProperty Name="Vendor_ID" ColumnName="Vendor_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AspNetUserRoles" TypeName="SmartShoppingModel.AspNetUserRoles" StoreEntitySet="AspNetUserRoles">
+      <EndProperty Name="AspNetUsers">
+        <ScalarProperty Name="Id" ColumnName="UserId" />
+      </EndProperty>
+      <EndProperty Name="AspNetRoles">
+        <ScalarProperty Name="Id" ColumnName="RoleId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="MemberRole" TypeName="SmartShoppingModel.MemberRole" StoreEntitySet="MemberRole">
+      <EndProperty Name="Roles">
+        <ScalarProperty Name="Roles_ID" ColumnName="Roles_ID" />
+      </EndProperty>
+      <EndProperty Name="Members">
+        <ScalarProperty Name="Member_ID" ColumnName="Member_ID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PromotionDetail" TypeName="SmartShoppingModel.PromotionDetail" StoreEntitySet="PromotionDetail">
+      <EndProperty Name="Promotions">
+        <ScalarProperty Name="Promotion_ID" ColumnName="Promotion_ID" />
+      </EndProperty>
+      <EndProperty Name="Products">
+        <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ShoppingListInside" TypeName="SmartShoppingModel.ShoppingListInside" StoreEntitySet="ShoppingListInside">
+      <EndProperty Name="ShoppingList">
+        <ScalarProperty Name="List_ID" ColumnName="List_ID" />
+      </EndProperty>
+      <EndProperty Name="Products">
+        <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+      </EndProperty>
+      <Condition ColumnName="Product_ID" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

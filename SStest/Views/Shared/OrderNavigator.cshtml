@@ -1,0 +1,40 @@
+﻿<ul id="orderNavigator">
+    <li @if(getController() == "Cart")
+        {
+            @:class="selected"
+        }>
+        購物車 >
+    </li>
+
+    <li @if(getAction() == "CheckOut")
+        {
+            @:class="selected"
+        }>
+        填寫訂購資料 >
+    </li>
+    
+    <li @if(getAction() == "Confirm")
+        {
+            @:class="selected"
+        }>
+        確認訂單
+    </li>
+
+    <li @if(getAction() == "Finish")
+        {
+            @:class="selected"
+        }>
+        完成訂單
+    </li>
+</ul>
+
+@functions{
+    public string getController()
+    {
+        return Request.RequestContext.RouteData.Values["controller"].ToString();
+    }
+    public string getAction()
+    {
+        return Request.RequestContext.RouteData.Values["action"].ToString();
+    }
+}
